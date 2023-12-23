@@ -15,19 +15,19 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the Art Facilities",
     description:
-      "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et.",
+      "Elevate your workout experience with cutting-edge equipment and technology in our state-of-the-art fitness facility.",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
     title: "100's of Diverse Classes",
     description:
-      "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
+      "Choose from a plethora of diverse classes, ensuring there's a perfect fit for every fitness level and preference.",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Expert and Pro Trainers",
     description:
-      "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
+      "Achieve your goals with guidance from our expert trainers, dedicated to transforming your fitness journey into a success story.",
   },
 ];
 
@@ -133,18 +133,18 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+                Join the thriving community of millions who have embraced a
+                healthier lifestyle with us. Our gym isn't just a place to work
+                out; it's a supportive family where fitness becomes a shared
+                journey. Discover the joy of achieving your fitness goals
+                surrounded by like-minded individuals. We celebrate every
+                success, big or small, and together, we inspire and motivate
+                each other.
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+                Experience the positivity and camaraderie that comes with being
+                part of a fitness family committed to making every member's
+                journey a happy and successful one.
               </p>
             </motion.div>
 
